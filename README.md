@@ -2,6 +2,8 @@
 
 One-click Windows installer for FaceFusion, ported from NVIDIA-only to AMD. Free.
 
+More one-click AMD tools — including the full set for sale — are at [hiimhal.com/software](https://hiimhal.com/software/).
+
 ## What it does
 
 FaceFusion is a face swapping and enhancement tool. This AMD build uses isolated dependencies and runs on the Radeon 8060S.
